@@ -61,11 +61,11 @@ CropGuard AI helps farmers detect crop diseases early, report them with geotagge
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, TailwindCSS, Vanilla JavaScript
+- **Frontend:** HTML5, TailwindCSS,CSS, Vanilla JavaScript
 - **Mapping:** MapLibre, MapTiler
-- **Backend:** (Pluggable) — Supabase, Firebase, or custom API
+- **Backend:** (Pluggable) —custom API
 - **AI:** TensorFlow.js / OpenAI API (disease prediction)
-- **Notifications:** Twilio / WhatsApp API (optional)
+- **Notifications:** 
 - **Icons:** Font Awesome
 - **Fonts:** Quicksand (Google Fonts)
 
@@ -82,14 +82,9 @@ cd cropAI
 # npm install
 
 # Add environment variables (if needed)
-# NEXT_PUBLIC_SUPABASE_URL=xxxx
-# NEXT_PUBLIC_SUPABASE_ANON_KEY=xxxx
 # MAPTILER_API_KEY=xxxx
 
-# Run development server (if using a framework)
-# npm run dev
-
-# Or simply open index.html in your browser for the static demo
+# Or simply open index.html in your browser for the demo
 ```
 
 ---
