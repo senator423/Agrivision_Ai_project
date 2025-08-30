@@ -128,12 +128,16 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
+
 ## 👥 Contact / Credits
 
-Built by Bravin Vulimwa & contributors.
+Built by Bravin Vulimwa & contributors:
 
-- [Portfolio](https://bravinvulimwa.com)
-- [Twitter](https://twitter.com/bravin_vulimwa)
+- Bravin Vulimwa ([Portfolio](https://code4cities.vercel.app)
+- [Murage](https://github.com/Idon-got-rabies)
+- [@nyorusam](https://github.com/nyorusam) 
+- [@pkonsomu2020](https://github.com/pkonsomu2020)
+- [@senator423](https://github.com/senator423) (xiks)
 
 ---
 
